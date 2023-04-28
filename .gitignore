@@ -39,3 +39,12 @@ terraform.rc
 
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
